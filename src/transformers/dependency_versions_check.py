@@ -29,7 +29,7 @@ pkgs_to_check_at_runtime = [
     "requests",
     "packaging",
     "filelock",
-    "numpy",
+   # "numpy",
     "tokenizers",
     "huggingface-hub",
     "safetensors",
